@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`La view de Products Ejercicio 1 1) Renderiza 1`] = `
+<DocumentFragment>
+  <ul>
+    <li>
+      Samsung
+    </li>
+  </ul>
+</DocumentFragment>
+`;
